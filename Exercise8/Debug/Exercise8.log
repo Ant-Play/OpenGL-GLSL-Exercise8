@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(116,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(116,22): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(116,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(117,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(117,22): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(117,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(118,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(118,22): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\WorkSpace\Exercise8\Exercise8\main.cpp(118,16): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  Exercise8.vcxproj -> D:\WorkSpace\Exercise8\Debug\Exercise8.exe
