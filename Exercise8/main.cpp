@@ -26,12 +26,8 @@ GLfloat l_shininess = 30;
 GLuint programHandle;
 GLuint vShader, fShader;
 
-// Camera Spherical Coordinates
-float alpha = -43.0f, beta = 48.0f;
-float r = 400.0f;
-
 // Camera Position
-float camX = 0, camY = 500, camZ = 400;
+float camX = 0, camY = 700, camZ = 400;
 
 unsigned int VBO;
 unsigned int VAO;
@@ -265,9 +261,6 @@ void display() {
 
 	glRotatef(rx1, 0, 1, 0);
 	glRotatef(ry1, 1, 0, 0);
-
-	glEnableClientState(GL_VERTEX_ARRAY);
-	glVertexPointer(3, GL_FLOAT, 0, vertices);
 
 
 	glColor3f(1.0, 1.0, 1.0);
