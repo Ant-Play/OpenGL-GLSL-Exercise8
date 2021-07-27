@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="Dragon-ply.ply" />
     <None Include="packages.config" />
+    <None Include="shaders\Frag.frag" />
+    <None Include="shaders\Vert.vert" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

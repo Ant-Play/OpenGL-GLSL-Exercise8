@@ -16,6 +16,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="shaders\Frag.frag" />
+    <None Include="shaders\Vert.vert" />
+    <None Include="Dragon-ply.ply" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
